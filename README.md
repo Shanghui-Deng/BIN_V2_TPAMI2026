@@ -6,7 +6,7 @@ Shanghui Deng, Xiao Zheng, Chang Tang, Lianbo Guo, Xinwang Liu, Kunlun He
 >**Published:**
 IEEE Transactions on Pattern Analysis and Machine Intelligence
 
-This repository contains simple pytorch implementation of our paper [BIN_V2]([https://ieeexplore.ieee.org/document/11557197](https://ieeexplore.ieee.org/document/11557197)).
+This repository contains simple pytorch implementation of our paper [BIN_V2](https://ieeexplore.ieee.org/document/11557197).
 
 ### 1. Overview
 <p align="center">
